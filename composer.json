@@ -1,0 +1,24 @@
+{
+    "name": "trannguyenhan/autogencontroller",
+    "description": "Auto gen controller code",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Trannguyenhan\\AutogenController\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "trannguyenhan",
+            "email": "trannguyenhan01092000@gmail.com"
+        }
+    ],
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Trannguyenhan\\AutogenController\\AutogenControllerProvider"
+            ]
+        }
+    }
+}

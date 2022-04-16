@@ -1,0 +1,3 @@
+    public function store(Request $request){
+        return $this->doStore($request, {{model}}::INSERT_FIELD);
+    }

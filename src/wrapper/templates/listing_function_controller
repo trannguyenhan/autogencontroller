@@ -1,0 +1,5 @@
+    public function listing(Request $request){
+        $total = $this->countItem($request);
+        $data = $this->listingItems($request);
+        return \App\Helpers::successResponseList($total, $data);
+    }

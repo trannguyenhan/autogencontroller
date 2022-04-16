@@ -1,0 +1,3 @@
+    public function update(Request $request){
+        return $this->doUpdate($request, {{model}}::UPDATE_FIELD);
+    }
