@@ -1,4 +1,9 @@
+# Auto gen controller Laravel
+
+![](https://img.shields.io/badge/MIT%20-License-brightgreen)
+
 For each person and each project will bring a different code structure, each person likes and has their own style, this project does not help you to create really good controllers, but it can be a foundation. so you can create your own better versions by making changes in the templates folder
+
 
 ## Configuration
 
