@@ -3,7 +3,7 @@
 namespace Trannguyenhan\AutogenController\wrapper;
 
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
-use Trannguyenhan\AutogenController\Constants;
+use Trannguyenhan\AutogenController\helpers\Constants;
 
 class ControllerWrapper extends Wrapper
 {

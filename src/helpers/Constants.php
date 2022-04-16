@@ -1,6 +1,6 @@
 <?php
 
-namespace Trannguyenhan\AutogenController;
+namespace Trannguyenhan\AutogenController\helpers;
 
 class Constants
 {

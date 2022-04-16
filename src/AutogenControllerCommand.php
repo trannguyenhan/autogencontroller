@@ -4,6 +4,7 @@ namespace Trannguyenhan\AutogenController;
 
 use Illuminate\Console\Command;
 use Illuminate\Contracts\Filesystem\FileNotFoundException;
+use Trannguyenhan\AutogenController\helpers\Constants;
 use Trannguyenhan\AutogenController\helpers\Helpers;
 use Trannguyenhan\AutogenController\models\Factory;
 use Trannguyenhan\AutogenController\wrapper\ControllerWrapper;
